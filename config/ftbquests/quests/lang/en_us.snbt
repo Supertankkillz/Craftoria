@@ -11,6 +11,7 @@
 	chapter.3188AC6C440F7520.title: "&aGetting Started"
 	chapter.33E8845C982DC0F2.title: "Mekanism: Ore Processing"
 	chapter.37D7FA3DAE36E099.title: "Just Dire Things"
+	chapter.3B4FADE31FB88E9F.title: "Iron's Spells"
 	chapter.40CEA39FE5F5225D.title: "Mekanism"
 	chapter.42032FCAB6197EE7.title: "&cArmory"
 	chapter.4551BA86097AB1B5.title: "&2Agriculture"
@@ -400,6 +401,8 @@
 		" &#8226; Third is a &bDiesel Jetpack&r. Yes, you heard me right. A jetpack. The &6stronger the fuel&r in it the &6faster you'll fly&r. Use your \"V\" key to toggle the jetpack on and off. Let your wings free and fly with the power of technology! &oAnd a bit of fuel...&r"
 	]
 	quest.0ED4263270D37EF6.title: "Diesel Accessories"
+	quest.0ED5CB1120D1BD6E.quest_desc: ["Found while exploring, the Scrolls are found all around the world, but if your not carefull and choose to used the Sroll it will only have one use."]
+	quest.0ED5CB1120D1BD6E.title: "Scroll"
 	quest.0F121433B94D72D9.quest_desc: [
 		"   &6Hover&r &lJDT&r &bupgrades&r in EMI and &6hold shift&r for &9descriptons&r."
 		""
@@ -1000,6 +1003,7 @@
 	quest.206C9BCE1D67C3B8.quest_desc: ["&bChalk &fcan take a bit of time to &6break&f if misplaced. With a quick &bbrush &fof the hand, it will go away instantly"]
 	quest.206C9BCE1D67C3B8.quest_subtitle: "Don't got any soap?"
 	quest.207613A34C3F10FA.title: "Oxygen for Chemical Infuser"
+	quest.2085CB41244C2783.quest_desc: ["Whilst in the Nether, you must fight your way to the Hogs, and Obtain Hogskin."]
 	quest.20A093E5684D2E30.quest_desc: [
 		"  Even more advanced electronics! These circuit boards are aluminum based and allow for more complex machinery."
 		""
@@ -1183,8 +1187,6 @@
 		"If the machine or container automatically pushes the contents into the pipe, then each the transfer rate is &94000mb/t&r for each tube in the network."
 	]
 	quest.264F371D2A18EAEC.title: "Basic Pressurized Tube"
-	quest.266E065B5B4C91E3.quest_desc: ["This &bemitter &fconverts &bmercury &finto &bSulfuric Flux &fwhich can carry information."]
-	quest.266E065B5B4C91E3.quest_subtitle: "Mercury = Sulfuric Flux"
 	quest.2675A4EA019B383F.quest_desc: [
 		"You'll need to make &bTurbines&r to &7harness the steam&r you'll be producing and generate &eelectricity&r. "
 		""
@@ -1302,6 +1304,7 @@
 		"Goes up to 1024 co-processors"
 	]
 	quest.2AB5183A0BD8D387.title: "Multi Core Crafting Accelerator"
+	quest.2ACF8F5EFD3C4AF7.title: "Boots"
 	quest.2ADDD30536A7FF68.quest_desc: ["&bReactor Glass&r is a &3super enhanced clear material&r that can be used for the center walls of the &bFusion reactor&r. Everyone likes to &6see&r pretty colors (that may or may not &4obliterate&r you)."]
 	quest.2B1717F5D6E20B79.quest_desc: [
 		"  With an &bElectrolyzer&r, enough time and power, and your freshly made &bSingularity&r, you can extract large amounts of energy through &bQuantum Hawking Radiation&r in the form of &bUniversally Usable Matter&r, also known simply as &dUU Matter&r."
@@ -1723,8 +1726,10 @@
 	]
 	quest.378E30F8E12695A2.quest_desc: ["The &bCharge Pad&r is a pad that can be &6placed down&r and &6charge&r anything standing ontop of it; including any &eenergy using/batteries&r in the inventory of a player standing atop it."]
 	quest.378E30F8E12695A2.title: "Chargepad"
+	quest.37A5C2FCA8F75BE6.title: "Trade with the pope"
 	quest.37AC7F3340783FD3.quest_desc: ["&eLaserIO&f is a mod that will let you &atransfer&b Items, Fluid, Powah, and Redstone&f with 9 separate configurations per block face."]
 	quest.37AC7F3340783FD3.title: "&6LaserIO"
+	quest.37F1166AB7EF132E.quest_subtitle: "What is this goop?"
 	quest.37F3ABF113A1D399.quest_desc: [
 		"  The &bLV Energy Input Hatch&r is like a giant electrical inlet. As I've stated before, you need an &bEnergy Input Hatch&r to power multi-block electrical machines."
 		""
@@ -1800,6 +1805,7 @@
 	quest.3B007B3669FFC1C4.title: "Ritual: Summon Unbound Afrit"
 	quest.3B0AB80C9FAD48F2.quest_desc: ["The &bAntiprotonic Nucleosynthesizer&r takes gaseous &dAntimatter&r and allows you to alter the molecular structure of some items and transform them into another, more powerful variant."]
 	quest.3B0AB80C9FAD48F2.title: "Antiprotonic Nucleosynthesizer"
+	quest.3B3FDF02E891DD39.quest_desc: ["The Apprentice Spellbook being a better book, requires you to take a trip to the Nether."]
 	quest.3B82F8F19AF630D5.quest_desc: ["The&b Toggle Bus &fis the same as a &bGlass Cable&f, but is used to &6temporarily disable&f the section of a system downstream from it when unpowered. &6Powering it&f will allow data and power to pass once again."]
 	quest.3B82F8F19AF630D5.title: "Toggle Bus"
 	quest.3BAA7EC7653A7905.quest_desc: [
@@ -1838,6 +1844,13 @@
 	quest.3CABE90D2D99AAD0.quest_desc: ["The &bCrafting Formula&r is used to store crafting recipes which are used in &bFormulaic Assemblicators&r."]
 	quest.3CABE90D2D99AAD0.title: "Crafting Formula"
 	quest.3CEBC51DB3555C3E.quest_subtitle: "Every Netherite tier has its own unique properties"
+	quest.3D4317C2B25D5680.quest_desc: [
+		"The Scroll forge is used to craft scroll using paper and Ink"
+		""
+		"Their are different types of spells you can create with different items. These different items are refured to as Focuses. Each Focus is used for a specific variety of scrolls. "
+		""
+		"Know depending on the Tier of Ink you choose, the more rare scrolls will be availiable, and the the scroll will be more powerful."
+	]
 	quest.3D5B74D9663AAB5A.quest_desc: [
 		"The &bHeat Generator&r is a simple source of energy that relies on &cheat sources&r surrounding it. "
 		""
@@ -1852,6 +1865,8 @@
 	quest.3D9DED933A80CAFA.title: "Memory Card"
 	quest.3DC47060EEAB8975.quest_desc: ["Once you have &6replicated &fyour &bsulfur &fit will all go directly into this machine. You may &6Right-Click &fwith your hand and retrieve your &bsulfur."]
 	quest.3DC47060EEAB8975.quest_subtitle: "And its all here"
+	quest.3DE4F07C4CFE9E89.quest_desc: ["&bEngineering Circuits &fare required in order to craft the&b Engineering Processors&f."]
+	quest.3DE4F07C4CFE9E89.title: "Printed Engineering Circuit"
 	quest.3DE966D73F4FF5A4.quest_subtitle: "Blocks certain pesky intruders from entering your base."
 	quest.3DF6354F7AC8D4A4.quest_desc: ["  Now that you can start your journey into the chemicals branching off from &bCrude Oil&r, you can produce upgrades for your machines! All of the electric machines you've used up until now have has a maximum overclock of 32 eu/t. Now, you can increase that maximum, depending on the tier of upgrade you use. Check your REI to see how much EU each upgrade raises."]
 	quest.3DF6354F7AC8D4A4.title: "Upgrades"
@@ -1860,6 +1875,7 @@
 	quest.3E165961635B0C4B.quest_subtitle: "Find the Mysterious Cube"
 	quest.3E165961635B0C4B.title: "Mysterious Cube"
 	quest.3E41681892FA2E44.quest_desc: ["Used in &bPattern Providers&r or &bInterfaces&r, which allows them to provide power to touching blocks/cables."]
+	quest.3E212B5DE277B73A.quest_subtitle: "Oink Oink"
 	quest.3E62028A2B03EEA4.quest_desc: ["The &bElite Thermodynamic Conductor&b has a &4heat capacity&r of &a1.0&r, a conduction of &e5.0&r, but an insulation of &c8000.0&r."]
 	quest.3E62028A2B03EEA4.title: "Elite Thermodynamic Conductor"
 	quest.3E9D2DA07E8617EA.quest_subtitle: "Complete the quest chapter."
@@ -1918,6 +1934,7 @@
 		""
 		"To use the &bTablet&r, specify &9pick-up&r and &9drop-off&r locations by &6right-clicking&r on the &3inventory&r or &btank&r with the &bTablet&r."
 	]
+	quest.40FF154148BBAFF2.quest_subtitle: "oooh Shiny!"
 	quest.41125B1819031283.quest_desc: ["People around your world really need your help! Doing a good deed here and there might reward you in the future. Plus, are you really doing anything else important? Forget about your nearly critical fission reactor or the hoard of monsters in your basement or even the corruption spreading through the world. Help that old lady or that amputee instead!"]
 	quest.41125B1819031283.quest_subtitle: "A good deed a day keeps the insanity away!"
 	quest.41125B1819031283.title: "Hit the streets!"
@@ -2185,6 +2202,7 @@
 		""
 		"{image:justdirethings:item/celestigem width:100 height:100 align:center fit:true}"
 	]
+	quest.480F170F7028C337.quest_desc: ["The Lesser Spell slot "]
 	quest.48212961977655E7.quest_desc: [
 		"Well i guess you could, But I don't think it would taste that great. "
 		""
@@ -2338,6 +2356,7 @@
 	quest.4E56C9A5F225A883.quest_subtitle: "A way to tick accelerate blocks."
 	quest.4E56C9A5F225A883.title: "&6Gadgets Against Grind"
 	quest.4E6BB4279E8E793A.title: "&7Alchemical Sulfur Abundant"
+	quest.4E7439769A073494.title: "Leggins"
 	quest.4E8963E1C18ADBAB.quest_desc: [
 		"The &bIncubator &fis small multi-block used to recombine Principles of matter into objects. "
 		""
@@ -2396,6 +2415,7 @@
 	quest.50D1398BBF8DBBB2.title: "Electrolytic Separator"
 	quest.511C07DFE796F377.title: "Tier 1 Glyphs"
 	quest.511E7475AD64A32D.quest_desc: ["The &bME Crystal Fixer&f can repair &bBudding Block&f into the next tier."]
+	quest.51542DCB5C8E5C3A.quest_desc: ["The Second tier of Spellbook only holding 6 Spells"]
 	quest.516F2A1A1270D9DC.quest_desc: [
 		"  &bSimple&r:"
 		"    • &bBlocks&r get &6broke&r"
@@ -2550,6 +2570,7 @@
 	]
 	quest.5676B5FD97FB10C3.quest_subtitle: "It's Smelting Time!"
 	quest.5676B5FD97FB10C3.title: "Bronze Furnace"
+	quest.56A515610D242E28.title: "Ink"
 	quest.56C5ECD3430B6A55.quest_desc: ["The &bHDPE Reinforced Elytra&r is a way to gain gliding flight without even touching the &dEnd Dimension&r. "]
 	quest.56C5ECD3430B6A55.title: "HDPE Reinforced Elytra"
 	quest.5707678AB1482B68.quest_desc: [
@@ -2561,6 +2582,7 @@
 		""
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
+	quest.573FAED7B35F6C86.quest_desc: ["For the more seasoned mage the Enchated Spellbook has ten slots."]
 	quest.57852C27FD0C29AA.title: "Upgrades"
 	quest.57A8D67858693F4A.quest_desc: ["The &bBasic Injecting Factory&r allows you to process &a3&r injection recipes at once."]
 	quest.57A8D67858693F4A.title: "Basic Injecting Factory"
@@ -2918,6 +2940,7 @@
 	]
 	quest.681A718388A97FFC.title: "Muffling Upgrade"
 	quest.683CF11DB8361F81.quest_desc: ["Used as a housing to hold MEGA Storage Component, for (Mekanism) Chemical Storage."]
+	quest.68493CE96FD68EBA.title: "Cryomancer"
 	quest.68721F148E2805FB.quest_desc: ["Your first &bSpell Book&r will allow you to start &6collecting&r and using &bspells&r."]
 	quest.688DEE1D1C4F9BDA.quest_desc: [
 		"This &9module&r emits a &4redstone signal&r with strength proportional to the &7pressure&r within the &btubes&r. "
@@ -3308,6 +3331,8 @@
 	quest.739D2E03341174B1.title: "&6Relics"
 	quest.740B34D7D1AF3FF0.quest_desc: ["The &bCrusher&r is a machine used to &6crush&r items and blocks into &7dusts&r and other &9materials&r."]
 	quest.740B34D7D1AF3FF0.title: "Crusher"
+	quest.7422BD3C0F060AC5.quest_desc: ["These are the highest level spellbooks a experience mage can Obtain"]
+	quest.7422BD3C0F060AC5.title: "Magelike Spellbooks"
 	quest.742A5BB44F257D8E.quest_desc: [
 		"  &bItem Pipes&r work just about the same as &bFluid Pipes&r, aside from &6they will transport items and is much more configurable&r. Just like &bFluid pipes&r, they will not connect to inventories by default, but you still can force a connection. If you right click a connection without a &bWrench&r, you'll see a filter."
 		""
@@ -3438,7 +3463,6 @@
 	quest.78EDBDED3BFEC145.title: "Welcome to &othe&r &aCraftoria&r!"
 	quest.78F7F62C0E2E7448.quest_desc: ["The &bUltimate Purifying Factory&r allows you to process up to &a9&r purifying recipes at once."]
 	quest.78F7F62C0E2E7448.title: "Ultimate Purifying Factory"
-	quest.790B49348370BE10.title: "Sulfurs and Niter"
 	quest.791CAEBAE57EF0E1.quest_desc: ["  &bMotors&r take electricity and produce a rotational force. You'll use motors to create many of the machines and other components in the future. &6You should automate these&r."]
 	quest.791CAEBAE57EF0E1.quest_subtitle: "You Spin Me Right 'Round"
 	quest.791CAEBAE57EF0E1.title: "Motors"
@@ -3690,6 +3714,7 @@
 	task.04FBCF96BB8F176A.title: "Vein be gone!"
 	task.07818B6C552EFFD7.title: "&5Ars Nouveau &6100%"
 	task.0A3A3817F4660E79.title: "&dModern Industrialization 100%"
+	task.0D974A2537B460E2.title: "Upgrades AAAAAAAAAAAAHHHHHHHHH"
 	task.0F6742A136681E6E.title: "Expanded Storage"
 	task.0FA270C84C6558F4.title: "Clean Slurry"
 	task.1531CE8CE061AFC3.title: "Any #handcrafted:chests"
@@ -3698,7 +3723,10 @@
 	task.1936B2F028F013BB.title: "More RED!!!"
 	task.19756286A29F901E.title: "Applied Energistic Storage"
 	task.1BEC4027E735B683.title: "Need a guide?"
+	task.1ACF33BDD92D15DA.title: "KILL the Pope"
+	task.1B5D407F2729F56F.title: "The DEAD King"
 	task.1D870ED2303FAE8A.title: "Magic?!"
+	task.1F5A29E07CD58234.title: "Hats"
 	task.21895164503139CA.title: "Water for Condensentrator"
 	task.22E777BE43621489.title: "Any #handcrafted:chests"
 	task.253E536043DBF3EA.title: "Quantum Computer Storage"
@@ -3731,9 +3759,12 @@
 	task.4B733AF93D7D28C4.title: "check the filter"
 	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
+	task.4F7787C0557CF5CC.title: "Apo The Carist"
 	task.5001206B16F5D7A0.title: "Modern Industrialization Storage"
 	task.525F82A0A4CD7A78.title: "&6Occultism &4100%"
 	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
+	task.54E5D81FEE18AF83.title: "Pyromancer"
+	task.56265F6574251564.title: "Candle"
 	task.5983497D25122539.title: "Exaltation Apparatus"
 	task.5A17D67E5C26C2A1.title: "Bank Storage"
 	task.5C841C5182A0FB83.title: "Mekanism Storage"
@@ -3744,6 +3775,7 @@
 	task.61ADF1E6345BC7E1.title: "Any #c:raw_materials/copper"
 	task.63DAD8D3277DA248.title: "Evolving Manufacturing Index"
 	task.659005F19206B35C.title: "Building Gadgets"
+	task.65B2D0E35B083E82.title: "survial of the fittest"
 	task.66BF2FED6B091A68.title: "Exploration!"
 	task.68513782E03F702F.title: "Reactor Planning"
 	task.6A42FE8CB215ACAD.title: "Artifacts"
@@ -3754,6 +3786,7 @@
 	task.7537E40C4FAB6D5C.title: "Welcome To Powah"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
 	task.7A970E46C90F719A.title: "&6Collect Them All"
+	task.7AB3BAEAA2E50F06.title: "Archevoker"
 	task.7ADDEF2457D8E760.title: "Advanced Netherite"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
 	task.7E5AD4DEEEDA93BC.title: "Extra Spicy Technology"
